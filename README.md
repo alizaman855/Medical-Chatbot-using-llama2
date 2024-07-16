@@ -1,9 +1,4 @@
----
-title: "Medical Chatbot Using LLama2"
-author: "Muhammad Zaman Ali"
-date: "`r Sys.Date()`"
-output: html_document
----
+
 
 # 🚀 Introduction
 
